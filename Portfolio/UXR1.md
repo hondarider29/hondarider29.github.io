@@ -1,6 +1,6 @@
 ## A Twitter Ads Heuristic Evaluation
 
-**Overview**
+###### Overview
 
 Twitter as a social media platform launched in July 2006. And in April of 2013 Twitter announced its Twitter Ads self-service platform, this advertisement system consists of promoted tweets, and promoted accounts. These ads are now commonplace, and I was interested in how well they meshed with the rest of Twitter, which I will analyze with a heuristic evaluation.
 
@@ -10,6 +10,7 @@ Twitter as a social media platform launched in July 2006. And in April of 2013 T
 
 **Devices Used** Samsung Galaxy S21 Ultra
 
+##### Evaluation
 
 **Simple and Natural Dialogue**
 
@@ -34,6 +35,6 @@ Twitter handles their promoted tweets and profile ads very well in this category
 This category in interesting when it comes to Twitter ads, as the ads are very consistent, so consistent you couldn’t tell them apart from normal app features without the promoted mark that they put at the bottom of promoted tweets and profiles. And depending on your viewpoint this is a malicious dark pattern or staying true to the principle of consistence, my opinion is that the promoted content needs to be easily differentiated form normal tweets and profiles, and that the small, promoted mark is not enough.
 
 
-**Conclusion**
+###### Conclusion
 
 Twitter Ads over all follow good User Centered Design principle and depending on you r personal view about “hidden” ads could be completely fine and dandy, or exploitative and malicious. And while being unintrusive is a key part of modern internet ads, there is a thing as too unintrusive, Twitter ads carefully walk that line and in my opinion could be a little more intrusive so that people do not lump them in with normal tweets.
