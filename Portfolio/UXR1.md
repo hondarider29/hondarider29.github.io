@@ -16,7 +16,7 @@ Twitter as a social media platform launched in July 2006. And in April of 2013 T
 
 Twitter Ads encompasses the less is more ideal very well, by integrating the ads into the home feed, and search screens. They do not add anything that was not already there and only use features that were already on those screens.
 
-![Profile Ad](./assests/Twitter%20Profile%20Ad.jpg)
+![Profile Ad](https://github.com/hondarider29/hondarider29.github.io/blob/main/assets/Twitter%20Profile%20Ad.jpg)
 
 By encompassing Less is More they make to ads non-intrusive and still effective. After all ads are a necessary evil.
 
@@ -25,20 +25,20 @@ By encompassing Less is More they make to ads non-intrusive and still effective.
 
 While for some of us Twitter lingo may as well be Martian, for Twitter users it is their language, and it all makes sense in the context of Twitter.Some other things to keep in mind when using this heuristic with Twitter is that Goggle Translate has been integrated so tweets in foreign language can be machine translated, and you can select the languages for tweets that appear guaranteeing that the tweets are in a language you can read.
 
-![Languge Button](./assets/Twitter%20Languge.jpg)
+![Languge Button](https://github.com/hondarider29/hondarider29.github.io/blob/main/assets/Twitter%20Languge.jpg)
 
 
 #### Minimize the User’s Memory Load
 
 Twitter handles their promoted tweets and profile ads very well in this category, the tweets look not different form any other tweet making the ads unintrusive. They do not display to much and relay on recognition to get across to the user, or to seed recognition for later ads.
 
-![Search Ad](https://github.com/hondarider29/hondarider29.github.io/blob/main/docs/assests/images/Twitter%20Search%20Ad.jpg)
+![Search Ad](https://github.com/hondarider29/hondarider29.github.io/blob/main/assets/Twitter%20Search%20Ad.jpg)
 
 #### Consistency
 
 This category in interesting when it comes to Twitter ads, as the ads are very consistent, so consistent you couldn’t tell them apart from normal app features without the promoted mark that they put at the bottom of promoted tweets and profiles.
 
-![Tweet Ad](https://github.com/hondarider29/hondarider29.github.io/blob/main/docs/assests/images/Twitter%20NBA%20Ad.jpg)
+![Tweet Ad](https://github.com/hondarider29/hondarider29.github.io/blob/main/assets/Twitter%20NBA%20Ad.jpg)
 
 And depending on your viewpoint this is a malicious dark pattern or staying true to the principle of consistence, my opinion is that the promoted content needs to be easily differentiated form normal tweets and profiles, and that the small, promoted mark is not enough.
 
