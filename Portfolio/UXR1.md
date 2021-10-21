@@ -16,7 +16,7 @@ Twitter as a social media platform launched in July 2006. And in April of 2013 T
 
 Twitter Ads encompasses the less is more ideal very well, by integrating the ads into the home feed, and search screens. They do not add anything that was not already there and only use features that were already on those screens.
 
-![Profile Ad](/main/assests/Twitter%20Profile%20Ad.jpg)
+![Profile Ad](./assests/Twitter%20Profile%20Ad.jpg)
 
 By encompassing Less is More they make to ads non-intrusive and still effective. After all ads are a necessary evil.
 
@@ -25,7 +25,7 @@ By encompassing Less is More they make to ads non-intrusive and still effective.
 
 While for some of us Twitter lingo may as well be Martian, for Twitter users it is their language, and it all makes sense in the context of Twitter.Some other things to keep in mind when using this heuristic with Twitter is that Goggle Translate has been integrated so tweets in foreign language can be machine translated, and you can select the languages for tweets that appear guaranteeing that the tweets are in a language you can read.
 
-![Languge Button](/blob/main/assets/Twitter%20Languge.jpg)
+![Languge Button](./assets/Twitter%20Languge.jpg)
 
 
 #### Minimize the User’s Memory Load
