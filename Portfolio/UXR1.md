@@ -16,7 +16,7 @@ Twitter as a social media platform launched in July 2006. And in April of 2013 T
 
 Twitter Ads encompasses the less is more ideal very well, by integrating the ads into the home feed, and search screens. They do not add anything that was not already there and only use features that were already on those screens.
 
-![Profile Ad](/hondarider29.github.io//assests/Twitter%20Profile%20Ad.jpg)
+![Profile Ad](/hondarider29.github.io/assests/Twitter%20Profile%20Ad.jpg)
 
 By encompassing Less is More they make to ads non-intrusive and still effective. After all ads are a necessary evil.
 
