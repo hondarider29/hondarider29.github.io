@@ -25,7 +25,7 @@ By encompassing Less is More they make to ads non-intrusive and still effective.
 
 While for some of us Twitter lingo may as well be Martian, for Twitter users it is their language, and it all makes sense in the context of Twitter.Some other things to keep in mind when using this heuristic with Twitter is that Goggle Translate has been integrated so tweets in foreign language can be machine translated, and you can select the languages for tweets that appear guaranteeing that the tweets are in a language you can read.
 
-![Languge Button](https://github.com/hondarider29/hondarider29.github.io/blob/main/docs/assests/images/Twitter%20Languge.jpg)
+![Languge Button](/blob/main/assets/Twitter%20Languge.jpg)
 
 
 #### Minimize the User’s Memory Load
